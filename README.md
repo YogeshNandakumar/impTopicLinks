@@ -14,3 +14,6 @@
 https://medium.com/@chimera.zen/how-to-use-create-react-app-to-publish-an-npm-package-3f29909a36db
 
 https://medium.com/@vmarchesin/how-to-publish-a-npm-package-in-four-steps-4344ab88e852
+
+//how to install mysql on ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
