@@ -17,3 +17,6 @@ https://medium.com/@vmarchesin/how-to-publish-a-npm-package-in-four-steps-4344ab
 
 //how to install mysql on ubuntu
 https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
+
+//fileupload jquery
+https://github.com/meteor/meteor/issues/8125
