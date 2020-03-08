@@ -20,3 +20,6 @@ https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-
 
 //fileupload jquery
 https://github.com/meteor/meteor/issues/8125
+
+//redux-saga setup
+https://github.com/benawad/cra-redux-saga/tree/1_setup_redux_saga/src
