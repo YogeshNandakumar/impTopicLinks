@@ -23,3 +23,7 @@ https://github.com/meteor/meteor/issues/8125
 
 //redux-saga setup
 https://github.com/benawad/cra-redux-saga/tree/1_setup_redux_saga/src
+
+//material ui functional component to class component
+https://github.com/mui-org/material-ui/issues/15820
+https://stackoverflow.com/questions/58621997/how-to-use-connect-and-withstyles-for-class-component-in-react
