@@ -31,3 +31,6 @@ https://stackoverflow.com/questions/58621997/how-to-use-connect-and-withstyles-f
 //material ui css
 https://codepen.io/finnhvman/pen/GyzbEj
 https://codepen.io/finnhvman/pen/xyOORQ
+
+//rendering images from database
+https://www.quora.com/How-do-I-call-an-image-from-the-existing-folder-using-Node-JS-and-display-on-the-front-end
