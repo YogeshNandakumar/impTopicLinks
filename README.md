@@ -34,3 +34,8 @@ https://codepen.io/finnhvman/pen/xyOORQ
 
 //rendering images from database
 https://www.quora.com/How-do-I-call-an-image-from-the-existing-folder-using-Node-JS-and-display-on-the-front-end
+
+//how to validate react form using formik and yup
+https://blog.bitsrc.io/creating-forms-in-react-with-formik-and-yup-698d09363a22
+https://blog.bitsrc.io/handling-react-forms-and-validation-with-formik-and-yup-dc789fd9e485
+https://github.com/anshulrgoyal/Formik-Blog
