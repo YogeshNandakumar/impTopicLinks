@@ -39,3 +39,6 @@ https://www.quora.com/How-do-I-call-an-image-from-the-existing-folder-using-Node
 https://blog.bitsrc.io/creating-forms-in-react-with-formik-and-yup-698d09363a22
 https://blog.bitsrc.io/handling-react-forms-and-validation-with-formik-and-yup-dc789fd9e485
 https://github.com/anshulrgoyal/Formik-Blog
+
+//how to add scss to your create react app
+https://medium.com/@oreofeolurin/configuring-scss-with-react-create-react-app-1f563f862724
