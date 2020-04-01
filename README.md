@@ -42,3 +42,7 @@ https://github.com/anshulrgoyal/Formik-Blog
 
 //how to add scss to your create react app
 https://medium.com/@oreofeolurin/configuring-scss-with-react-create-react-app-1f563f862724
+
+//how to add redux presistor to your app
+https://medium.com/@edisondevadoss/how-to-use-redux-persist-in-react-application-35943c1d8292
+https://github.com/rt2zz/redux-persist
