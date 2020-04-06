@@ -46,3 +46,6 @@ https://medium.com/@oreofeolurin/configuring-scss-with-react-create-react-app-1f
 //how to add redux presistor to your app
 https://medium.com/@edisondevadoss/how-to-use-redux-persist-in-react-application-35943c1d8292
 https://github.com/rt2zz/redux-persist
+
+//how to write readme.md file
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
