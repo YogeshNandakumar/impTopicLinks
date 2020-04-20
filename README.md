@@ -49,3 +49,6 @@ https://github.com/rt2zz/redux-persist
 
 //how to write readme.md file
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+//how to add dynamic fields in react 
+https://dev.to/email2vimalraj/dynamic-form-fields-using-react-35ci
