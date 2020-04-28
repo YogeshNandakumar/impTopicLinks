@@ -52,3 +52,10 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 //how to add dynamic fields in react 
 https://dev.to/email2vimalraj/dynamic-form-fields-using-react-35ci
+
+//html drag and drop
+https://www.geeksforgeeks.org/html-drag-and-drop/
+
+//to disable lint warnings in particular file
+/* eslint-disable */
+https://github.com/facebook/create-react-app/issues/2339
