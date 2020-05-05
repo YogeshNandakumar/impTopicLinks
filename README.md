@@ -59,3 +59,8 @@ https://www.geeksforgeeks.org/html-drag-and-drop/
 //to disable lint warnings in particular file
 /* eslint-disable */
 https://github.com/facebook/create-react-app/issues/2339
+
+//to display uploaded files pdf,docx,xlsx in react app
+https://www.npmjs.com/package/react-file-viewer
+https://www.npmjs.com/package/react-pdf
+https://github.com/wojtekmaj/react-pdf/issues/321
