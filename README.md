@@ -64,3 +64,6 @@ https://github.com/facebook/create-react-app/issues/2339
 https://www.npmjs.com/package/react-file-viewer
 https://www.npmjs.com/package/react-pdf
 https://github.com/wojtekmaj/react-pdf/issues/321
+
+http://thenewcode.com/856/Send-a-SMS-Text-From-A-Link
+<a href="sms:+1-303-499-7111?body=Interested%20in%20your%20product">Sms Me!</a>
