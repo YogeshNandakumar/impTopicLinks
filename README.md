@@ -67,3 +67,9 @@ https://github.com/wojtekmaj/react-pdf/issues/321
 
 http://thenewcode.com/856/Send-a-SMS-Text-From-A-Link
 <a href="sms:+1-303-499-7111?body=Interested%20in%20your%20product">Sms Me!</a>
+
+//react sitemap work
+how to create sitemap for website in react js
+https://www.amitsn.com/blog/how-to-generate-a-sitemap-for-your-react-website-with-dynamic-content
+https://thekenyandev.com/blog/adding-a-sitemap-to-your-react-app/
+https://www.steadylearner.com/blog/read/How-to-build-a-sitemap-for-React
